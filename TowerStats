@@ -1009,12 +1009,11 @@
         ]
     },
     "Summer Toy Bonnie": {
-        "Type": "Slow",
+        "Type": "Single",
         "Image": "rbxassetid://18255590026",
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1027,32 +1026,24 @@
                 "Range": 15,
                 "Damage": 20,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
             },
             {
                 "Price": 1200,
                 "Range": 16,
                 "Damage": 25,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
             },
             {
                 "Price": 1600,
                 "Range": 17,
                 "Damage": 30,
                 "Cooldown": 1,
-                "Slow": 0.7,
-                "SlowTime": 1
             },
             {
                 "Price": 2000,
                 "Range": 18,
                 "Damage": 30,
                 "Cooldown": 0.8,
-                "Slow": 0.6,
-                "SlowTime": 1
             }
         ]
     },
@@ -1755,12 +1746,11 @@
         ]
     },
     "Amalgam": {
-        "Type": "Continuous Slow",
+        "Type": "Continuous",
         "Image": "rbxassetid://18363541545",
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1772,28 +1762,24 @@
                 "Range": 15,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.8
             },
             {
                 "Price": 2400,
                 "Range": 17,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.7
             },
             {
                 "Price": 3000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.6
             },
             {
                 "Price": 4000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.05,
-                "Slow": 0.5
             }
         ]
     },
@@ -2034,12 +2020,11 @@
         ]
     },
     "Witch Toy Chica": {
-        "Type": "Poison",
+        "Type": "Single",
         "Image": "rbxassetid://18363391561",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
-        "Passive": {"Name": "Lethal Potions", "Description": "Deals an extra 30% damage in poison"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2052,42 +2037,33 @@
                 "Range": 15,
                 "Damage": 200,
                 "Cooldown": 3.5,
-                "Poison": 10,
-                "PoisonLength": 3
             },
             {
                 "Price": 800,
                 "Range": 17,
                 "Damage": 225,
                 "Cooldown": 3,
-                "Poison": 15,
-                "PoisonLength": 3
             },
             {
                 "Price": 1000,
                 "Range": 20,
                 "Damage": 250,
                 "Cooldown": 3,
-                "Poison": 20,
-                "PoisonLength": 3
             },
             {
                 "Price": 1200,
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 2,
-                "Poison": 30,
-                "PoisonLength": 3
             }
         ]
     },
     "Abyssal Foxy": {
-        "Type": "Continuous Slow",
+        "Type": "Continuous",
         "Image": "rbxassetid://18578478327",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2102,8 +2078,6 @@
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.9,
-                "SlowTime": 1
             },
             {
                 "Price": 30000,
@@ -2112,8 +2086,6 @@
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
             },
             {
                 "Price": 40000,
@@ -2122,8 +2094,6 @@
                 "Cooldown": 0.07,
                 "ChargeLength": 2.5,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
             },
             {
                 "Price": 50000,
@@ -2132,8 +2102,6 @@
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
             },
             {
                 "Price": 75000,
@@ -2142,8 +2110,6 @@
                 "Cooldown": 0.07,
                 "ChargeLength": 2,
                 "RechargeLength": 5,
-                "Slow": 0.7,
-                "SlowTime": 1
             }
         ]
     },
